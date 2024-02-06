@@ -1,4 +1,4 @@
-## Olá, me chamdo Wastenio!
+## Olá, me chamo Wastenio!
 
 # Clonagem da Plataforma Spotify
 
